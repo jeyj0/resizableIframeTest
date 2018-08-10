@@ -1,0 +1,14 @@
+{
+  "name": "resizableiframetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  },
+  "author": "Jannis Jorre <jeyj0.plus@gmail.com>",
+  "license": "MIT"
+}
